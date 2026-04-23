@@ -12,7 +12,7 @@
 
 ---
 
-Entry-level Cloud & DevOps Engineer focused on **infrastructure automation**, **site reliability**, and **production-grade observability**. I build systems that detect, fix, and recover from failures automatically — reducing MTTR and operational toil through code, not manual intervention.
+Cloud & DevOps Engineer focused on **infrastructure automation**, **site reliability**, and **production-grade observability**. I build systems that detect, fix, and recover from failures automatically — reducing MTTR and operational toil through code, not manual intervention.
 
 ---
 
